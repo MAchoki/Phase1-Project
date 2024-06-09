@@ -1,4 +1,8 @@
 # Phase1-Project
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main
 # Aviation Safety Analysis
 
 ## Overview
@@ -33,4 +37,9 @@ The dataset comprises various fields, including event details, location, aircraf
 2. **Weather Impact**: Incidents under Instrument Meteorological Conditions (IMC) tend to have higher fatal injuries, underscoring the need for better instrumentation and pilot training.
 3. **Trend Analysis**: Fluctuations in incident frequency over the years highlight the importance of continuous monitoring and improvement in aviation safety protocols.
 
+<<<<<<< HEAD
 These findings provide actionable insights for improving aviation safety measures and mitigating risks associated with aviation operations.
+=======
+These findings provide actionable insights for improving aviation safety measures and mitigating risks associated with aviation operations.
+
+>>>>>>> origin/main
